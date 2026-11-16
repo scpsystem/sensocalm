@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { AudioProvider, useAudio } from "./components/AudioManager.jsx";
+import AudioManager from "./AudioManager.jsx";
 import { SettingsProvider, useSettings } from "./components/Settings.jsx";
 import HomeScreen from "./HomeScreen.jsx";
 import ThemeSelection from "./components/ThemeSelection.jsx";
