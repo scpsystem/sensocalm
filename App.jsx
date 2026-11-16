@@ -1,6 +1,6 @@
 import { useState } from "react";
 import AudioManager from "./AudioManager.jsx";
-import { SettingsProvider, useSettings } from "./components/Settings.jsx";
+import Settings from "./Settings.jsx";
 import HomeScreen from "./HomeScreen.jsx";
 import ThemeSelection from "./components/ThemeSelection.jsx";
 import SensoryRoom from "./components/SensoryRoom.jsx";
