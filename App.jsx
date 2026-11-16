@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { AudioProvider, useAudio } from "./components/AudioManager.jsx";
 import { SettingsProvider, useSettings } from "./components/Settings.jsx";
-import HomeScreen from "./components/HomeScreen.jsx";
+import HomeScreen from "./HomeScreen.jsx";
 import ThemeSelection from "./components/ThemeSelection.jsx";
 import SensoryRoom from "./components/SensoryRoom.jsx";
 import FidgetBoard from "./components/FidgetBoard.jsx";
